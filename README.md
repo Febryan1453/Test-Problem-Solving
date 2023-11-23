@@ -1,0 +1,3 @@
+## Saya tidak mengubah apa2 pada controller, hanya saja saran saya adalah ketika project laravelnya lengkap maka gampang sekali untuk di analisa, dan untuk menghandle masalah yang dimaksud sebenarnya bisa menggunakan skrip sederhana yang telah saya cantumkan di data model.
+
+## Sekali lagi ini hanya analisa saya, mungkin akan berbeda lagi jika seluruh code project bisa di perlihatkan secara keseluruhan
